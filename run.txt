@@ -1,0 +1,368 @@
+[0m[1mdata.github_organization_teams.all: Reading...[0m[0m
+[0m[1mdata.github_organization_teams.all: Read complete after 1s [id=O_kgDOBvM9Ww][0m
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+[0m[1m[32m
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
+[0m[0m[1m[32m
+Outputs:
+
+[0mteams = tolist([
+  {
+    "description" = ""
+    "id" = 7496307
+    "members" = tolist([
+      "srlynch1",
+    ])
+    "name" = "demo-team"
+    "node_id" = "T_kwDOBvM9W84AcmJz"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "VISIBLE"
+    "repositories" = tolist([
+      "test1",
+      "Test3-createrepo",
+    ])
+    "slug" = "demo-team"
+  },
+  {
+    "description" = ""
+    "id" = 9434220
+    "members" = tolist([])
+    "name" = "team1"
+    "node_id" = "T_kwDOBvM9W84Aj_Rs"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team1"
+  },
+  {
+    "description" = ""
+    "id" = 9434214
+    "members" = tolist([])
+    "name" = "team10"
+    "node_id" = "T_kwDOBvM9W84Aj_Rm"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team10"
+  },
+  {
+    "description" = ""
+    "id" = 9434213
+    "members" = tolist([])
+    "name" = "team2"
+    "node_id" = "T_kwDOBvM9W84Aj_Rl"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team2"
+  },
+  {
+    "description" = ""
+    "id" = 9434212
+    "members" = tolist([])
+    "name" = "team3"
+    "node_id" = "T_kwDOBvM9W84Aj_Rk"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team3"
+  },
+  {
+    "description" = ""
+    "id" = 9434217
+    "members" = tolist([])
+    "name" = "team4"
+    "node_id" = "T_kwDOBvM9W84Aj_Rp"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team4"
+  },
+  {
+    "description" = ""
+    "id" = 9434215
+    "members" = tolist([])
+    "name" = "team5"
+    "node_id" = "T_kwDOBvM9W84Aj_Rn"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team5"
+  },
+  {
+    "description" = ""
+    "id" = 9434221
+    "members" = tolist([])
+    "name" = "team6"
+    "node_id" = "T_kwDOBvM9W84Aj_Rt"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team6"
+  },
+  {
+    "description" = ""
+    "id" = 9434216
+    "members" = tolist([])
+    "name" = "team7"
+    "node_id" = "T_kwDOBvM9W84Aj_Ro"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team7"
+  },
+  {
+    "description" = ""
+    "id" = 9434218
+    "members" = tolist([])
+    "name" = "team8"
+    "node_id" = "T_kwDOBvM9W84Aj_Rq"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team8"
+  },
+  {
+    "description" = ""
+    "id" = 9434219
+    "members" = tolist([])
+    "name" = "team9"
+    "node_id" = "T_kwDOBvM9W84Aj_Rr"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team9"
+  },
+])
+[0m[1mdata.github_organization_teams.all: Reading...[0m[0m
+[0m[1mdata.github_organization_teams.all: Read complete after 1s [id=O_kgDOBvM9Ww][0m
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+[0m[1m[32m
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
+[0m[0m[1m[32m
+Outputs:
+
+[0mteams = tolist([
+  {
+    "description" = ""
+    "id" = 7496307
+    "members" = tolist([
+      "srlynch1",
+    ])
+    "name" = "demo-team"
+    "node_id" = "T_kwDOBvM9W84AcmJz"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "VISIBLE"
+    "repositories" = tolist([
+      "test1",
+      "Test3-createrepo",
+    ])
+    "slug" = "demo-team"
+  },
+  {
+    "description" = ""
+    "id" = 9434220
+    "members" = tolist([])
+    "name" = "team1"
+    "node_id" = "T_kwDOBvM9W84Aj_Rs"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team1"
+  },
+  {
+    "description" = ""
+    "id" = 9434214
+    "members" = tolist([])
+    "name" = "team10"
+    "node_id" = "T_kwDOBvM9W84Aj_Rm"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team10"
+  },
+  {
+    "description" = ""
+    "id" = 9434213
+    "members" = tolist([])
+    "name" = "team2"
+    "node_id" = "T_kwDOBvM9W84Aj_Rl"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team2"
+  },
+  {
+    "description" = ""
+    "id" = 9434212
+    "members" = tolist([])
+    "name" = "team3"
+    "node_id" = "T_kwDOBvM9W84Aj_Rk"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team3"
+  },
+  {
+    "description" = ""
+    "id" = 9434217
+    "members" = tolist([])
+    "name" = "team4"
+    "node_id" = "T_kwDOBvM9W84Aj_Rp"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team4"
+  },
+  {
+    "description" = ""
+    "id" = 9434215
+    "members" = tolist([])
+    "name" = "team5"
+    "node_id" = "T_kwDOBvM9W84Aj_Rn"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team5"
+  },
+  {
+    "description" = ""
+    "id" = 9434221
+    "members" = tolist([])
+    "name" = "team6"
+    "node_id" = "T_kwDOBvM9W84Aj_Rt"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team6"
+  },
+  {
+    "description" = ""
+    "id" = 9434216
+    "members" = tolist([])
+    "name" = "team7"
+    "node_id" = "T_kwDOBvM9W84Aj_Ro"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team7"
+  },
+  {
+    "description" = ""
+    "id" = 9434218
+    "members" = tolist([])
+    "name" = "team8"
+    "node_id" = "T_kwDOBvM9W84Aj_Rq"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team8"
+  },
+  {
+    "description" = ""
+    "id" = 9434219
+    "members" = tolist([])
+    "name" = "team9"
+    "node_id" = "T_kwDOBvM9W84Aj_Rr"
+    "parent" = tomap({
+      "id" = ""
+      "name" = ""
+      "slug" = ""
+    })
+    "privacy" = "SECRET"
+    "repositories" = tolist([])
+    "slug" = "team9"
+  },
+])
